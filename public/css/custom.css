@@ -1,0 +1,138 @@
+/* 목차 섹션 스타일 */
+aside section {
+    background-color: #ffffff !important;
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+/* Related 섹션 스타일 */
+aside .bg-light-gray {
+    background-color: #ffffff !important;
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+    padding: 1.5rem !important;
+    margin-bottom: 2rem;
+}
+
+/* 섹션 제목 스타일 */
+aside section h4,
+aside .bg-light-gray .f5.b {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #212529;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #dee2e6;
+}
+
+/* 링크 스타일 통일 */
+aside section a,
+aside .bg-light-gray a {
+    color: #0066cc;
+    text-decoration: none;
+    line-height: 1.6;
+}
+
+aside section a:hover,
+aside .bg-light-gray a:hover {
+    color: #004499;
+    text-decoration: underline;
+}
+
+/* 목차 리스트 스타일 */
+nav#TableOfContents {
+    background-color: #ffffff !important;
+}
+
+nav#TableOfContents ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+nav#TableOfContents li {
+    margin-bottom: 0.5rem;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+/* 예쁜 bullet point 추가 */
+nav#TableOfContents li::before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: #0066cc;
+    font-size: 0.9rem;
+}
+
+/* 목차 링크 폰트 사이즈 줄이기 */
+nav#TableOfContents a {
+    font-size: 0.9rem !important;
+}
+
+/* "Table of Contents" 문구 숨기기 */
+nav#TableOfContents > ul:first-of-type::before {
+    display: none;
+}
+
+/* Related 링크에 bullet point 추가 */
+aside .bg-light-gray li {
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+aside .bg-light-gray li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #666;
+    font-size: 1.2rem;
+}
+
+/* Related 링크 폰트 사이즈 줄이기 */
+aside .bg-light-gray a {
+    font-size: 0.85rem !important;
+}
+
+/* 메인페이지 포스트 제목 폰트 변경 */
+article h1.f3.lh-title a {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.8rem !important;
+    font-weight: 600 !important;
+}
+
+/* More 섹션 각 항목 간격 줄이기 */
+section.w-100 h2.f5 {
+    margin-bottom: 0.5rem !important;
+    margin-top: 0.5rem !important;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+section.w-100 h2.f5::before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: #0066cc;
+}
+
+/* More 섹션 항목들을 세로로 배치 */
+section.w-100 h2.f5 {
+    display: block !important;
+    width: 100% !important;
+    clear: both !important;
+}
+
+/* 메인페이지 요약 텍스트 스타일 */
+article .nested-copy-line-height {
+    font-family: 'Georgia', 'Times New Roman', serif !important;
+    line-height: 1.8 !important;
+}
+
+/* 메인 Hero 제목 폰트 변경 */
+header.cover h1.f2 {
+    font-family: 'Georgia', 'Times New Roman', serif !important;
+    font-weight: 700 !important;
+}

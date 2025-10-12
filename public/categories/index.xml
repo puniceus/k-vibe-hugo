@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on k-vibe</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on k-vibe</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sun, 28 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Korean-Myths</title>
+      <link>http://localhost:1313/categories/korean-myths/</link>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/korean-myths/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Korean-Fairytales</title>
+      <link>http://localhost:1313/categories/korean-fairytales/</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/korean-fairytales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Korean-Foods</title>
+      <link>http://localhost:1313/categories/korean-foods/</link>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/korean-foods/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-Culture-Deep-Dive</title>
+      <link>http://localhost:1313/categories/k-culture-deep-dive/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/k-culture-deep-dive/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+baseURL = 'https://k-vibe.net/'
+languageCode = 'ko-kr'
+title = 'k-vibe'
+theme = 'ananke'
+
+# custom.css 파일을 사이트에 적용하라는 설정
+[params]
+  custom_css = ["css/custom.css"]
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 2
