@@ -1,5 +1,5 @@
 ---
-title: "Gumi Ramyun Festival: K-Daheon's Shin Ramyun!"
+title: "Gumi Ramyun Festival!"
 date: 2025-11-08
 categories: 
   - "korean-foods"
