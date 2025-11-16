@@ -3,21 +3,22 @@ languageCode = 'en-us'
 title = 'k-vibe'
 theme = 'ananke'
 
+[params]
+  custom_css = ["css/custom.css"]
+  description = "Korean culture stories for global readers"
+  mainSections = ["posts"]
+
 # Pagination 설정 (새 형식)
 [pagination]
   pagerSize = 9
   path = "page"
 
-[params]
-  custom_css = ["css/custom.css"]
-  description = "Korean culture stories for global readers"
-
 # 메뉴 설정
 [menu]
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
+    identifier = "home"
+    name = "Home"
+    url = "/"
     weight = 1
 
 [markup]
