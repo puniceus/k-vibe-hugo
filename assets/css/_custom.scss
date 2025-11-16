@@ -1,0 +1,44 @@
+/* 홈페이지 카드 레이아웃 수정 */
+.home .article-list {
+  .article-item {
+    overflow: hidden;
+    
+    /* 이미지 크기 조정 */
+    img {
+      width: 100%;
+      height: auto;
+      max-height: 300px;
+      object-fit: cover;
+    }
+    
+    /* 카드 내용 여백 추가 */
+    .article-details,
+    .article-content {
+      padding: 1.5rem;
+    }
+    
+    /* 제목 여백 */
+    .article-title {
+      margin: 1rem 1.5rem;
+    }
+    
+    /* 본문 내용 여백 */
+    .summary {
+      padding: 0 1.5rem 1.5rem 1.5rem;
+    }
+    
+    /* 태그 여백 */
+    .article-tags {
+      padding: 0 1.5rem 1rem 1.5rem;
+    }
+  }
+}
+
+/* 카드 전체 여백 통일 */
+.article-card {
+  overflow: hidden;
+  
+  .post-card-body {
+    padding: 1.5rem;
+  }
+}
