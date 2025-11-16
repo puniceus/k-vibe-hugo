@@ -1,6 +1,6 @@
 ---
-title: "Posts"
+title: "k-vibe"
 description: "Korean culture stories for global readers"
 ---
 
-Explore Korean culture through engaging stories and insights.
+
