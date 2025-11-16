@@ -1,0 +1,9 @@
+# Home page profile
+[home]
+  [home.profile]
+    enable = true
+    avatarURL = ""
+    title = ""
+    subtitle = "Korean culture stories for global readers"
+    typeit = false
+    social = false

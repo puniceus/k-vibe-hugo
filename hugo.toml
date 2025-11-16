@@ -1,6 +1,6 @@
 baseURL = "https://k-vibe.net/"
 defaultContentLanguage = "en"
-title = "K-VIBE"
+title = "k-vibe"
 theme = "DoIt"
 
 enableRobotsTXT = true
