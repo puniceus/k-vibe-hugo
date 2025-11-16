@@ -5,9 +5,6 @@ defaultContentLanguage = "en"
 # theme
 # 主题
 theme = "FeelIt"
-# themes directory
-# 主题目录
-themesDir = "../"
 
 # website title
 # 网站标题
@@ -18,7 +15,7 @@ title = "k-vibe"
 enableRobotsTXT = true
 # whether to use git commit log
 # 是否使用 git 信息
-enableGitInfo = true
+enableGitInfo = false
 # whether to use emoji code
 # 是否使用 emoji 代码
 enableEmoji = true
