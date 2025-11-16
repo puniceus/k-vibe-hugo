@@ -3,9 +3,10 @@ languageCode = 'en-us'
 title = 'k-vibe'
 theme = 'ananke'
 
-# Pagination 설정
-paginate = 9  # 한 페이지당 9개 포스트
-paginatePath = "page"
+# Pagination 설정 (새 형식)
+[pagination]
+  pagerSize = 9
+  path = "page"
 
 [params]
   custom_css = ["css/custom.css"]
