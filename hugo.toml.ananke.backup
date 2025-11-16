@@ -1,0 +1,26 @@
+baseURL = 'https://k-vibe.net/'
+languageCode = 'en-us'
+title = 'k-vibe'
+theme = 'ananke'
+
+[params]
+  custom_css = ["css/custom.css"]
+  description = "Korean culture stories for global readers"
+  
+# Pagination 설정 (새 형식)
+[pagination]
+  pagerSize = 9
+  path = "page"
+
+# 메뉴 설정
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Post"
+    url = "/posts/"
+    weight = 1
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 2
