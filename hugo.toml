@@ -1,26 +1,74 @@
-baseURL = 'https://k-vibe.net/'
-languageCode = 'en-us'
-title = 'k-vibe'
-theme = 'ananke'
+baseURL = "https://k-vibe.net/"
+title = "k-vibe"
+languageCode = "en-us"
+hasCJKLanguage = true
+theme = "FeelIt"
 
-[params]
-  custom_css = ["css/custom.css"]
-  description = "Korean culture stories for global readers"
-  
-# Pagination 설정 (새 형식)
+# 페이지네이션
 [pagination]
-  pagerSize = 9
-  path = "page"
+  pagerSize = 10
 
-# 메뉴 설정
-[menu]
-  [[menu.main]]
-    identifier = "posts"
-    name = "Post"
-    url = "/posts/"
-    weight = 1
+# 출력 형식 (검색용)
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
+# 마크다운 설정
 [markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 2
+
+# 기본 파라미터
+[params]
+  version = "1.0.X"
+  description = "Korean culture stories for global readers"
+  keywords = ["K-culture", "Korean", "Blog"]
+  defaultTheme = "auto"
+  
+  # 헤더 설정
+  [params.header]
+    desktopMode = "fixed"
+    mobileMode = "auto"
+    [params.header.title]
+      name = "K-VIBE"
+      pre = "🇰🇷"
+
+  # 홈페이지 설정
+  [params.home]
+    [params.home.profile]
+      enable = true
+      title = "K-VIBE"
+      subtitle = "Korean culture stories for global readers"
+    [params.home.posts]
+      enable = true
+      paginate = 9
+
+  # 페이지 설정
+  [params.page]
+    [params.page.toc]
+      enable = true
+      auto = true
+
+# 메뉴
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 2
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
