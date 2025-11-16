@@ -11,7 +11,7 @@ tags:
   - "korean-culture"
 coverImage: "kvibe-korean-slang-and-internet-culture---oppa-to-20251116-081123.png"
 ---
-![Korean Slang and Internet Culture - "Oppa" to "헐"](/images/kvibe-korean-slang-and-internet-culture---oppa-to-20251116-081123.png "Korean Slang and Internet Culture - "Oppa" to "헐": Decoding ")
+![Korean Slang and Internet Culture](/images/kvibe-korean-slang-and-internet-culture---oppa-to-20251116-081123.png)
 
 Annyeonghaseyo, K-VIBE fam! Have you ever wondered how the vibrant language of Korea keeps evolving, especially with the lightning speed of digital communication? Today, we're diving deep into the fascinating world of **Korean Slang and Internet Culture**, tracing its journey from the familiar "Oppa" to the ubiquitous "헐" and everything in between. Get ready to explore how these dynamic expressions reflect the heart and soul of modern Korean society, particularly through the lens of K-pop fandom and the unique linguistic habits of the MZ generation!
 
