@@ -1,11 +1,23 @@
 baseURL = 'https://k-vibe.net/'
-languageCode = 'ko-kr'
+languageCode = 'en-us'
 title = 'k-vibe'
 theme = 'ananke'
 
-# custom.css 파일을 사이트에 적용하라는 설정
+# Pagination 설정
+paginate = 9  # 한 페이지당 9개 포스트
+paginatePath = "page"
+
 [params]
   custom_css = ["css/custom.css"]
+  description = "Korean culture stories for global readers"
+
+# 메뉴 설정
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
 
 [markup]
   [markup.tableOfContents]
