@@ -5,7 +5,7 @@ categories:
   - "modern-life-language"
 tags: 
   - "2025"
-  - "korean slang and internet culture - "oppa" to "헐""
+  - "korean slang and internet culture"
   - "k-culture"
   - "korean"
   - "korean-culture"
