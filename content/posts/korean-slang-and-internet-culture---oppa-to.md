@@ -1,5 +1,5 @@
 ---
-title: "Korean Slang and Internet Culture - "Oppa" to "헐": Decoding "
+title: "Korean Slang and Internet Culture"
 date: 2025-11-16
 categories: 
   - "modern-life-language"
