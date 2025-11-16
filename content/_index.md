@@ -1,3 +1,6 @@
 ---
-title: "k-vibe : the power of Korea"
+title: "k-vibe"
+description: "Korean culture stories for global readers"
 ---
+
+
