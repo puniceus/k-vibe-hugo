@@ -7,3 +7,11 @@
     subtitle = "Korean culture stories for global readers"
     typeit = false
     social = false
+
+# Page config
+[page]
+  # Table of the contents config
+  [page.toc]
+    enable = true
+    keepStatic = false
+    auto = true
