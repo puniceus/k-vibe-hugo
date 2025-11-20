@@ -15,3 +15,10 @@
     enable = true
     keepStatic = false
     auto = true
+
+# Analytics config
+[analytics]
+  enable = true
+  [analytics.google]
+    id = "G-4EZL6ZHWS5"
+    anonymizeIP = true
