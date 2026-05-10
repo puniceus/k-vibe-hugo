@@ -15,7 +15,6 @@ coverImage: "kvibe-jeong-20260510-121438.png"
 ---
 ![Jeong](/images/kvibe-jeong-20260510-121438.png "Jeong: The Warm, Slow Bond That Transcends Affection")
 
-**Editorial Note:** This article is an AI-assisted draft produced by K-VIBE for educational and cultural exploration purposes. It is intended for human review, fact-checking, and editorial refinement before final publication to ensure the highest standards of cultural sensitivity and accuracy.
 
 ***
 
