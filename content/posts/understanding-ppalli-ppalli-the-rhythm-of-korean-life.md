@@ -1,5 +1,5 @@
 ---
-title: "Understanding the "Ppalli-Ppalli" Pace of Korean Daily Life"
+title: 'Understanding the "Ppalli-Ppalli" Pace of Korean Daily Life'
 date: 2026-07-04
 author: "K-VIBE Editorial Desk"
 description: "Understanding 'Ppalli-Ppalli': The Rhythm of Korean Life guide for international readers, with Korean terms and cultural context."
